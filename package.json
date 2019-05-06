@@ -42,7 +42,7 @@
   "homepage": "https://github.com/appium/ios-uicatalog",
   "dependencies": {
     "appium-gulp-plugins": "^3.6.1",
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.2"
   },
   "devDependencies": {
     "ajv": "^6.5.3",
